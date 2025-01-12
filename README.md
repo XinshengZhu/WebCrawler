@@ -1,5 +1,4 @@
-# Primitive Web Crawler: readme
-This is the Assignment #1 for the CS-GY 6913, Web Search Engines
+# Primitive Web Crawler
 
 ## Files
 
